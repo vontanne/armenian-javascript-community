@@ -13,3 +13,9 @@ The contents are regularly updated to reflect new insights and developments in J
 We welcome all who are curious about JavaScript, whether you are just starting out or looking to expand your existing knowledge. Join us in exploring the intriguing world of JavaScript programming, and feel free to contribute or share your insights.
 
 Thank you for visiting, and we hope you find the resources here helpful in your programming journey!
+
+## Publications
+
+Below is a list of our publications for easier navigation:
+
+1. [**Թարգմանության ֆրագմենտ «Brendan Eich - Popularity» էսսեյից**](./publications/Translated%20fragment%20from%20Brendan%20Eichs%20Popularity.hy.md)
