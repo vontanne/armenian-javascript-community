@@ -14,6 +14,10 @@ We welcome all who are curious about JavaScript, whether you are just starting o
 
 Thank you for visiting, and we hope you find the resources here helpful in your programming journey!
 
+## License
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License - see the [LICENSE](./LICENSE) file for details.
+
 ## Publications
 
 Below is a list of our publications for easier navigation:
