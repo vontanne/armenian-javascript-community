@@ -25,3 +25,4 @@ Below is a list of our publications for easier navigation:
 1. [**Թարգմանության ֆրագմենտ «Brendan Eich - Popularity» էսսեյից**](./publications/Translated%20fragment%20from%20Brendan%20Eichs%20Popularity.hy.md)
 2. [**Ի՞նչ է իրենից ներկայացնում ECMAScript-ը և ինչո՞վ է այն տարբերվում JavaScript-ից**](./publications/Understanding%20ECMAScript.hy.md)
 3. [**Ո՞րն է Null-ի և Undefined-ի նմանությունն ու տարբերությունը**](./publications/Null%20vs%20Undefined.hy.md)
+4. [**Ինչ տարբերություններ կան BigInt և Number տվյալների տիպերի միջև: Number տիպի ո՞ր թերությունները ստիպեցին JavaScript ծրագրավորման լեզվում ավելացնել նոր տվյալների տիպը՝ BigInt-ը**](./publications/Exploring%20JavaScripts%20Numeric%20Type%20BigInt.hy.md)
