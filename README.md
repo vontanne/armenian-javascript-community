@@ -29,3 +29,4 @@ Below is a list of our publications for easier navigation:
 5. [**JavaScript-ի զվարճալի տարօրինակությունները։ Մաս 1**](./publications/The%20fun%20quirks%20of%20JavaScript%20-%20Part1.hy.md)
 6. [**JavaScript… Ամենաէլեգանտ և միաժամանակ ամենաթերագնահատված լեզուն**](./publications/The%20Untold%20Story%20of%20JavaScript.hy.md)
 7. [**Խնդիր համար 1 - Պալինդրոմ (Palindrome)**](./publications/Exploring%20Palindromes%20in%20JavaScript.hy.md)
+8. [**JavaScript-ի զվարճալի տարօրինակությունները։ Մաս 2**](./publications/Decoding%20the%20Bizarre%20Expression%20That%20Yields%20`fail`.hy.md)
