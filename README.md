@@ -32,3 +32,4 @@ Below is a list of our publications for easier navigation:
 8. [**JavaScript-ի զվարճալի տարօրինակությունները։ Մաս 2**](./publications/Decoding%20the%20Bizarre%20Expression%20That%20Yields%20`fail`.hy.md)
 9. [**Խնդիր համար 2 - Գտնել ձայնավորների քանակը բառի մեջ**](./publications/Vowel%20Quest%20-%20Hunting%20for%20Vowels%20within%20Words.hy.md)
 10. [**Ինչպես մնացորդով թվերից ստանալ ամբողջ թիվ, և ինչ մեթոդներ կան ստուգելու արդյո՞ք թիվը ամբողջ է թե ոչ**](./publications/JavaScripts%20Numeric%20Nitty-Gritty.hy.md)
+11. [**Ստեղծենք ՖՈՒՆԿՑԻԱ, որը շատ ավելի ճշգրիտ է աշխատում և անհամեմատ օգտակար է, քան typeof օպերատորը**](./publications/Enhancing%20Type%20Identification.hy.md)
