@@ -33,3 +33,4 @@ Below is a list of our publications for easier navigation:
 9. [**Խնդիր համար 2 - Գտնել ձայնավորների քանակը բառի մեջ**](./publications/Vowel%20Quest%20-%20Hunting%20for%20Vowels%20within%20Words.hy.md)
 10. [**Ինչպես մնացորդով թվերից ստանալ ամբողջ թիվ, և ինչ մեթոդներ կան ստուգելու արդյո՞ք թիվը ամբողջ է թե ոչ**](./publications/JavaScripts%20Numeric%20Nitty-Gritty.hy.md)
 11. [**Ստեղծենք ՖՈՒՆԿՑԻԱ, որը շատ ավելի ճշգրիտ է աշխատում և անհամեմատ օգտակար է, քան typeof օպերատորը**](./publications/Enhancing%20Type%20Identification.hy.md)
+12. [**Խնդիր համար 3 - Ի՞նչպես ստուգել թիվը պարզ է թե բաղադրյալ, ի՞նչպես գտնել մինչև տրված թիվը եղած բոլոր պարզ թվերը և «Էրատոսթենեսի մաղի» ալգորիթմը (Sieve of Eratosthenes)**](./publications/Prime%20Numbers%20and%20Sieve%20of%20Eratosthenes.hy.md)
