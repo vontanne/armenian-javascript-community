@@ -35,3 +35,4 @@ Below is a list of our publications for easier navigation:
 11. [**Ստեղծենք ՖՈՒՆԿՑԻԱ, որը շատ ավելի ճշգրիտ է աշխատում և անհամեմատ օգտակար է, քան typeof օպերատորը**](./publications/Enhancing%20Type%20Identification.hy.md)
 12. [**Խնդիր համար 3 - Ի՞նչպես ստուգել թիվը պարզ է թե բաղադրյալ, ի՞նչպես գտնել մինչև տրված թիվը եղած բոլոր պարզ թվերը և «Էրատոսթենեսի մաղի» ալգորիթմը (Sieve of Eratosthenes)**](./publications/Prime%20Numbers%20and%20Sieve%20of%20Eratosthenes.hy.md)
 13. [**Map տվյալների կառուցվածքը. Փորձենք համեմատել օբյեկտների հետ. Ի՞նչ առավելություններ և թերություններ ունի**](./publications/Unraveling%20the%20Power%20of%20JavaScripts%20Map%20Data%20Structure.hy.md)
+14. [**Խնդիր համար 4 - Գտնել Ֆիբոնաչչիի հաջորդականության n-երորդ թիվը**](./publications/Delving%20into%20Fibonacci%20Numbers.hy.md)
