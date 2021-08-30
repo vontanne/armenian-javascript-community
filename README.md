@@ -37,3 +37,4 @@ Below is a list of our publications for easier navigation:
 13. [**Map տվյալների կառուցվածքը. Փորձենք համեմատել օբյեկտների հետ. Ի՞նչ առավելություններ և թերություններ ունի**](./publications/Unraveling%20the%20Power%20of%20JavaScripts%20Map%20Data%20Structure.hy.md)
 14. [**Խնդիր համար 4 - Գտնել Ֆիբոնաչչիի հաջորդականության n-երորդ թիվը**](./publications/Delving%20into%20Fibonacci%20Numbers.hy.md)
 15. [**Set տվյալների կառուցվածքը: Փորձենք համեմատել զանգվածի հետ: Ո՞ր դեպքերում այն հիանալի այլընտրանք կլինի զանգվածին**](./publications/Set%20Data%20Structure.hy.md)
+16. [**JavaScript-ի զվարճալի տարօրինակությունները։ Մաս 3**](./publications/Unraveling%20parseInt%20and%20its%20Unusual%20Output.hy.md)
