@@ -38,3 +38,4 @@ Below is a list of our publications for easier navigation:
 14. [**Խնդիր համար 4 - Գտնել Ֆիբոնաչչիի հաջորդականության n-երորդ թիվը**](./publications/Delving%20into%20Fibonacci%20Numbers.hy.md)
 15. [**Set տվյալների կառուցվածքը: Փորձենք համեմատել զանգվածի հետ: Ո՞ր դեպքերում այն հիանալի այլընտրանք կլինի զանգվածին**](./publications/Set%20Data%20Structure.hy.md)
 16. [**JavaScript-ի զվարճալի տարօրինակությունները։ Մաս 3**](./publications/Unraveling%20parseInt%20and%20its%20Unusual%20Output.hy.md)
+17. [**Ինչպես որոնել տառը, բառը կամ ենթատողը տեքստի մեջ։ indexOf, lastIndexOf մեթոդների կիրառությունը**](./publications/Mastering%20Substring%20Searches%20in%20JavaScript.hy.md)
