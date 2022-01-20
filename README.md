@@ -39,3 +39,4 @@ Below is a list of our publications for easier navigation:
 15. [**Set տվյալների կառուցվածքը: Փորձենք համեմատել զանգվածի հետ: Ո՞ր դեպքերում այն հիանալի այլընտրանք կլինի զանգվածին**](./publications/Set%20Data%20Structure.hy.md)
 16. [**JavaScript-ի զվարճալի տարօրինակությունները։ Մաս 3**](./publications/Unraveling%20parseInt%20and%20its%20Unusual%20Output.hy.md)
 17. [**Ինչպես որոնել տառը, բառը կամ ենթատողը տեքստի մեջ։ indexOf, lastIndexOf մեթոդների կիրառությունը**](./publications/Mastering%20Substring%20Searches%20in%20JavaScript.hy.md)
+18. [**Տեքստից ենթատեքստի ստացումը: Ի՞նչ մեթոդներ կան, ո՞րն է այդ մեթոդներից ամենաճկունը**](./publications/Harnessing%20Built-in%20Methods%20for%20Efficient%20Substring%20Extraction.hy.md)
