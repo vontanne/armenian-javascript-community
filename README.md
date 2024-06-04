@@ -77,3 +77,4 @@ Below is a list of our publications for easier navigation:
 53. [**this բանալի բառը JavaScript ծրագրավորման լեզվում: Օգտագործման առանձնահատկությունները՝ բացատրություններով: Ինչո՞վ է այն տարբերվում այլ օբյեկտ կողմնորոշված լեզուներում առկա նույնատիպ հասկացությունից**](./publications/The%20Dynamic%20Nature%20of%20this%20in%20JavaScript.hy.md)
 54. [**Կոնստրուկտոր-ֆունկցիաներն ու օբյեկտների ստեղծումը new օպերատորի օգնությամբ: Ի՞նչ դեր է խաղում this բանալի բառը կոնստրուկտոր-ֆունկցիաների մեջ**](./publications/Creating%20Objects%20with%20Constructor%20Functions.hy.md)
 55. [**Հետաքրքիր փաստեր հանրաճանաչ Google Chrome ցանցային դիտարկիչի մասին: Ուրիշ ի՞նչ հայտնի և անհայտ դիտարկիչներ կան, որոնք նույնպես հիմնված են բաց աղբյուրային կոդով Chromium տեխնոլոգիայի վրա**](./publications/From%20Chromium%20to%20Global%20Dominance.hy.md)
+56. [**Ի՞նչ է լինում, երբ թեսթավորողը մտնում է փաբ :smile:**](./publications/Software%20Testers%20Adventure%20in%20a%20Pub.hy.md)
