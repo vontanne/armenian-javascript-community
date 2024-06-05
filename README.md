@@ -82,3 +82,4 @@ Below is a list of our publications for easier navigation:
 58. [**Հետաքրքիր փաստեր հանրաճանաչ և սիրված ցանցային դիտարկիչ Firefox-ի մասին: Ուրիշ ի՞նչ նորարարական նախագծեր են ստեղծվել Mozilla ընկերության կողմից**](./publications/Firefox%20-%20The%20Browser%20That%20Pioneered%20Open-Source%20Web%20Browsing.hy.md)
 59. [**Արժեքների ո՞ր տիպին են պատկանում ֆունկցիաները: Բարձր կարգի ֆունկցիաներն (higher-order functions) ու ծրագրավորման ֆունկցիոնալ հայեցակարգը**](./publications/Functional%20Programming%20in%20Modern%20JavaScript%20Development.md)
 60. [**Ֆունկցիաների շաղկապումը կոնտեքստի հետ՝ bind մեթոդի օգնությամբ**](./publications/Advanced%20Functional%20Patterns.hy.md)
+61. [**Ֆունկցիայի կանչը՝ հստակորեն նշված կոնտեքստով: call և apply մեթոդների տարբերությունը**](./publications/Manipulating%20Context.hy.md)
