@@ -84,3 +84,4 @@ Below is a list of our publications for easier navigation:
 60. [**Ֆունկցիաների շաղկապումը կոնտեքստի հետ՝ bind մեթոդի օգնությամբ**](./publications/Advanced%20Functional%20Patterns.hy.md)
 61. [**Ֆունկցիայի կանչը՝ հստակորեն նշված կոնտեքստով: call և apply մեթոդների տարբերությունը**](./publications/Manipulating%20Context.hy.md)
 62. [**Opera ցանցային դիտարկիչի ստեղծման պատմությունը: Ի՞նչու է այն տարիներ շարունակ համարվել շուկայի լիդերների ամենաարժանավոր այլընտրանքը: Ինչպես նաև Opera - Internet Explorer հակամարտության և Microsoft-ի մանր-մունր ճղճիմությունների մասին**](./publications/Opera%20Browser%20-%20A%20Journey%20from%20Inception%20to%20Innovation.hy.md)
+63. [**Աշխարհի ավելի քան 100 երկրներում փետրվարի 14-ին նշվում է Սուրբ Վալենտինի օրը (_կամ Բոլոր սիրահարների օրը_): Բայց շատերը չգիտեն, որ փետրվարի 14-ը նաև ՏՏ ոլորտի մասնագետների մասնագիտական տոնի օրն է**](./Publications/February%2014th%20as%20Programmer's%20Day%20-%20A%20Unique%20Celebration.md)
