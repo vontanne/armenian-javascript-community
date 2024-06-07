@@ -83,3 +83,4 @@ Below is a list of our publications for easier navigation:
 59. [**Արժեքների ո՞ր տիպին են պատկանում ֆունկցիաները: Բարձր կարգի ֆունկցիաներն (higher-order functions) ու ծրագրավորման ֆունկցիոնալ հայեցակարգը**](./publications/Functional%20Programming%20in%20Modern%20JavaScript%20Development.md)
 60. [**Ֆունկցիաների շաղկապումը կոնտեքստի հետ՝ bind մեթոդի օգնությամբ**](./publications/Advanced%20Functional%20Patterns.hy.md)
 61. [**Ֆունկցիայի կանչը՝ հստակորեն նշված կոնտեքստով: call և apply մեթոդների տարբերությունը**](./publications/Manipulating%20Context.hy.md)
+62. [**Opera ցանցային դիտարկիչի ստեղծման պատմությունը: Ի՞նչու է այն տարիներ շարունակ համարվել շուկայի լիդերների ամենաարժանավոր այլընտրանքը: Ինչպես նաև Opera - Internet Explorer հակամարտության և Microsoft-ի մանր-մունր ճղճիմությունների մասին**](./publications/Opera%20Browser%20-%20A%20Journey%20from%20Inception%20to%20Innovation.hy.md)
